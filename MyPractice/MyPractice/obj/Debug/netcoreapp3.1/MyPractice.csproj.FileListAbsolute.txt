@@ -1,0 +1,14 @@
+C:\Users\motle\source\repos\MyPractice\MyPractice\bin\Debug\netcoreapp3.1\MyPractice.exe
+C:\Users\motle\source\repos\MyPractice\MyPractice\bin\Debug\netcoreapp3.1\MyPractice.deps.json
+C:\Users\motle\source\repos\MyPractice\MyPractice\bin\Debug\netcoreapp3.1\MyPractice.runtimeconfig.json
+C:\Users\motle\source\repos\MyPractice\MyPractice\bin\Debug\netcoreapp3.1\MyPractice.runtimeconfig.dev.json
+C:\Users\motle\source\repos\MyPractice\MyPractice\bin\Debug\netcoreapp3.1\MyPractice.dll
+C:\Users\motle\source\repos\MyPractice\MyPractice\bin\Debug\netcoreapp3.1\MyPractice.pdb
+C:\Users\motle\source\repos\MyPractice\MyPractice\obj\Debug\netcoreapp3.1\MyPractice.csproj.AssemblyReference.cache
+C:\Users\motle\source\repos\MyPractice\MyPractice\obj\Debug\netcoreapp3.1\MyPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\motle\source\repos\MyPractice\MyPractice\obj\Debug\netcoreapp3.1\MyPractice.AssemblyInfoInputs.cache
+C:\Users\motle\source\repos\MyPractice\MyPractice\obj\Debug\netcoreapp3.1\MyPractice.AssemblyInfo.cs
+C:\Users\motle\source\repos\MyPractice\MyPractice\obj\Debug\netcoreapp3.1\MyPractice.csproj.CoreCompileInputs.cache
+C:\Users\motle\source\repos\MyPractice\MyPractice\obj\Debug\netcoreapp3.1\MyPractice.dll
+C:\Users\motle\source\repos\MyPractice\MyPractice\obj\Debug\netcoreapp3.1\MyPractice.pdb
+C:\Users\motle\source\repos\MyPractice\MyPractice\obj\Debug\netcoreapp3.1\MyPractice.genruntimeconfig.cache
